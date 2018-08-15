@@ -1,0 +1,7 @@
+name: WhiteList
+main: com.xuchaoji.whitelist.WhiteList
+version: 1.0
+commands:
+    wl:
+        description: main command for Whitelist
+        usage: wl
